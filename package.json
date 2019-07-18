@@ -1,0 +1,11 @@
+{
+  "name": "rocketseat-desafio02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lucasquitan/rocketseat-desafio02.git",
+  "author": "Lucas Quintanilha <l.quitan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
